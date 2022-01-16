@@ -1,0 +1,2 @@
+# Mozilla_Luganda_AutomaticSpeechRecognition
+Zindi Competition on Luganda Automatic Speech Recognition
